@@ -32,6 +32,8 @@ A simple web app that allows users to search for football players and view their
 - [TheSportsDB](https://www.thesportsdb.com/)
 
 ---
+**Link to App
+- file:///C:/Users/EVOTECH/Desktop/Sports%20player%20info&stats/Sport-player-info-stats/index.html
 
 ## 📁 Folder Structure
 
