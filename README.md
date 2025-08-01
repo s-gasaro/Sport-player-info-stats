@@ -92,4 +92,5 @@ You can now paste this directly into your `README.md` file in your project folde
 
 Watch the video demonstration of the app here:
 
-[▶️ Click to watch on YouTube](https://youtu.be/-jxMRMXNPuE)
+▶️ Click to watch on YouTube
+https://youtu.be/-jxMRMXNPuE
