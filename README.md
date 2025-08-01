@@ -88,6 +88,8 @@ Free to use for educational purposes.
 
 You can now paste this directly into your `README.md` file in your project folder. Let me know if you want to add badges or a live link later! ✅
 
-DEMO VIDEO
+## 🎥 Demo
 
-https://youtu.be/-jxMRMXNPuE
+Watch the video demonstration of the app here:
+
+[▶️ Click to watch on YouTube](https://youtu.be/-jxMRMXNPuE)
