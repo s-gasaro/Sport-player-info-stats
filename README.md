@@ -44,9 +44,6 @@ player-info-stats-app/
 │ ├── index.html
 │ ├── styles.css
 │ └── script.js
-│
-├── server.js
-├── package.json
 ├── .gitignore
 └── README.md
 
@@ -65,35 +62,40 @@ npm install
 3. Start app
 npm start
 
+
 🌐 API Used
-TheSportsDB API
-Endpoint example:
-https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p=ronaldo
 
-Returns:
+  TheSportsDB API
+  Endpoint example:
+    
+    [TheSportsDB](https://www.thesportsdb.com/)
 
-strPlayer (name)
+  Returns:
+  
+  strPlayer (name)
+  
+  strTeam
+  
+  strNationality
+  
+  strDescriptionEN (bio)
 
-strTeam
-
-strNationality
-
-strDescriptionEN (bio)
 
 👩‍💻 Author
-Gasaro Sarah
-Student developer & aspiring software engineer
+  Gasaro Sarah
+  Student developer & aspiring software engineer
+
 
 📄 License
-Free to use for educational purposes.
+  Free to use for educational purposes.
 
 ---
 
 
 
-## 🎥 Demo
+  ## 🎥 Demo
 
-Watch the video demonstration of the app here:
+  Watch the video demonstration of the app here:
 
-▶️ Click to watch on YouTube
-https://youtu.be/-jxMRMXNPuE
+  ▶️ Click to watch on YouTube
+    https://youtu.be/-jxMRMXNPuE
