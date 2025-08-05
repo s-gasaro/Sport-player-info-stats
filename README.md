@@ -33,7 +33,8 @@ A simple web app that allows users to search for football players and view their
 
 ---
 **Link to App
-- file:///C:/Users/EVOTECH/Desktop/Sports%20player%20info&stats/Sport-player-info-stats/index.html
+
+  https://youtu.be/-jxMRMXNPuE
 
 ## 📁 Folder Structure
 
@@ -88,7 +89,7 @@ Free to use for educational purposes.
 
 ---
 
-You can now paste this directly into your `README.md` file in your project folder. Let me know if you want to add badges or a live link later! ✅
+
 
 ## 🎥 Demo
 
