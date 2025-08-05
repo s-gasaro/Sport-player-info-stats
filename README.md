@@ -40,11 +40,10 @@ A simple web app that allows users to search for football players and view their
 
 player-info-stats-app/
 │
-├── public/
 │ ├── index.html
 │ ├── styles.css
 │ └── script.js
-├── .gitignore
+├── Dockerfile
 └── README.md
 
 ---
