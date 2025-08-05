@@ -34,7 +34,7 @@ A simple web app that allows users to search for football players and view their
 ---
 **Link to App
 
-  https://youtu.be/-jxMRMXNPuE
+  https://s-gasaro.github.io/Sport-player-info-stats/
 
 ## 📁 Folder Structure
 
@@ -51,9 +51,9 @@ player-info-stats-app/
 ## 🔧 How to Run Locally
 
 1. Clone the project:
-```bash
-git clone https://github.com/s-gasaro/player-info-stats-app.git
-cd player-info-stats-app
+
+  git clone https://github.com/s-gasaro/player-info-stats-app.git
+  cd player-info-stats-app
 
 2. Install dependencies:
 npm install
